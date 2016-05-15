@@ -1,0 +1,241 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CONN_01X02 P1
+U 1 1 571D74B6
+P 3500 3150
+F 0 "P1" H 3500 3300 50  0000 C CNN
+F 1 "Strip" V 3600 3150 50  0001 C CNN
+F 2 "LEDVideoBar:LEDStripSMD" H 3500 3150 50  0001 C CNN
+F 3 "" H 3500 3150 50  0000 C CNN
+	1    3500 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 P2
+U 1 1 571D75BE
+P 3500 3450
+F 0 "P2" H 3500 3600 50  0000 C CNN
+F 1 "Strip" V 3600 3450 50  0001 C CNN
+F 2 "LEDVideoBar:LEDStripSMD" H 3500 3450 50  0001 C CNN
+F 3 "" H 3500 3450 50  0000 C CNN
+	1    3500 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 P3
+U 1 1 571D75E0
+P 3500 3750
+F 0 "P3" H 3500 3900 50  0000 C CNN
+F 1 "Strip" V 3600 3750 50  0001 C CNN
+F 2 "LEDVideoBar:LEDStripSMD" H 3500 3750 50  0001 C CNN
+F 3 "" H 3500 3750 50  0000 C CNN
+	1    3500 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 P4
+U 1 1 571D7601
+P 3500 4050
+F 0 "P4" H 3500 4200 50  0000 C CNN
+F 1 "Strip" V 3600 4050 50  0001 C CNN
+F 2 "LEDVideoBar:LEDStripSMD" H 3500 4050 50  0001 C CNN
+F 3 "" H 3500 4050 50  0000 C CNN
+	1    3500 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 P5
+U 1 1 571D766F
+P 3500 4350
+F 0 "P5" H 3500 4500 50  0000 C CNN
+F 1 "Strip" V 3600 4350 50  0001 C CNN
+F 2 "LEDVideoBar:LEDStripSMD" H 3500 4350 50  0001 C CNN
+F 3 "" H 3500 4350 50  0000 C CNN
+	1    3500 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 P6
+U 1 1 571D7847
+P 3500 4650
+F 0 "P6" H 3500 4800 50  0000 C CNN
+F 1 "Strip" V 3600 4650 50  0001 C CNN
+F 2 "LEDVideoBar:LEDStripSMD" H 3500 4650 50  0001 C CNN
+F 3 "" H 3500 4650 50  0000 C CNN
+	1    3500 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 P7
+U 1 1 571D784D
+P 3500 4950
+F 0 "P7" H 3500 5100 50  0000 C CNN
+F 1 "Strip" V 3600 4950 50  0001 C CNN
+F 2 "LEDVideoBar:LEDStripSMD" H 3500 4950 50  0001 C CNN
+F 3 "" H 3500 4950 50  0000 C CNN
+	1    3500 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 P8
+U 1 1 571D7853
+P 3500 5250
+F 0 "P8" H 3500 5400 50  0000 C CNN
+F 1 "Strip" V 3600 5250 50  0001 C CNN
+F 2 "LEDVideoBar:LEDStripSMD" H 3500 5250 50  0001 C CNN
+F 3 "" H 3500 5250 50  0000 C CNN
+	1    3500 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 P9
+U 1 1 571D7859
+P 3500 5550
+F 0 "P9" H 3500 5700 50  0000 C CNN
+F 1 "Strip" V 3600 5550 50  0001 C CNN
+F 2 "LEDVideoBar:LEDStripSMD" H 3500 5550 50  0001 C CNN
+F 3 "" H 3500 5550 50  0000 C CNN
+	1    3500 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 P10
+U 1 1 571D785F
+P 3500 5850
+F 0 "P10" H 3500 6000 50  0000 C CNN
+F 1 "Strip" V 3600 5850 50  0001 C CNN
+F 2 "LEDVideoBar:LEDStripSMD" H 3500 5850 50  0001 C CNN
+F 3 "" H 3500 5850 50  0000 C CNN
+	1    3500 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X02 I1
+U 1 1 571D7897
+P 3150 2750
+F 0 "I1" H 3150 2900 50  0000 C CNN
+F 1 "Strip" V 3250 2750 50  0001 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x02" H 3150 2750 50  0001 C CNN
+F 3 "" H 3150 2750 50  0000 C CNN
+	1    3150 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_01X02 I2
+U 1 1 571D7A36
+P 3150 6300
+F 0 "I2" H 3150 6450 50  0000 C CNN
+F 1 "Strip" V 3250 6300 50  0001 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x02" H 3150 6300 50  0001 C CNN
+F 3 "" H 3150 6300 50  0000 C CNN
+	1    3150 6300
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	3100 2950 3100 6100
+Wire Wire Line
+	3200 6100 3200 2950
+Wire Wire Line
+	3300 3100 3100 3100
+Connection ~ 3100 3100
+Wire Wire Line
+	3300 3200 3200 3200
+Connection ~ 3200 3200
+Wire Wire Line
+	3300 3400 3100 3400
+Connection ~ 3100 3400
+Wire Wire Line
+	3300 3500 3200 3500
+Connection ~ 3200 3500
+Wire Wire Line
+	3300 3700 3100 3700
+Connection ~ 3100 3700
+Wire Wire Line
+	3300 3800 3200 3800
+Connection ~ 3200 3800
+Wire Wire Line
+	3300 4000 3100 4000
+Connection ~ 3100 4000
+Wire Wire Line
+	3300 4100 3200 4100
+Connection ~ 3200 4100
+Wire Wire Line
+	3300 4300 3100 4300
+Connection ~ 3100 4300
+Wire Wire Line
+	3300 4400 3200 4400
+Connection ~ 3200 4400
+Wire Wire Line
+	3300 4600 3100 4600
+Connection ~ 3100 4600
+Wire Wire Line
+	3300 4700 3200 4700
+Connection ~ 3200 4700
+Wire Wire Line
+	3300 4900 3100 4900
+Connection ~ 3100 4900
+Wire Wire Line
+	3300 5000 3200 5000
+Connection ~ 3200 5000
+Wire Wire Line
+	3300 5200 3100 5200
+Connection ~ 3100 5200
+Wire Wire Line
+	3300 5300 3200 5300
+Connection ~ 3200 5300
+Wire Wire Line
+	3300 5500 3100 5500
+Connection ~ 3100 5500
+Wire Wire Line
+	3300 5600 3200 5600
+Connection ~ 3200 5600
+Wire Wire Line
+	3300 5800 3100 5800
+Connection ~ 3100 5800
+Wire Wire Line
+	3300 5900 3200 5900
+Connection ~ 3200 5900
+$EndSCHEMATC
